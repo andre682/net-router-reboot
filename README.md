@@ -1,2 +1,2 @@
 # net-router-reboot
-Workaround to reboot NET Router
+Claro/NET router always sucks. Workaround to reboot NET Router from your desktop.
